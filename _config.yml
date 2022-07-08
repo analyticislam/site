@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: Analytic Islam
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Making a cogent case for Islam in modernity.
 
 email: a-mail@mail.mail
 #blog logo
@@ -16,16 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 
+author:
+author_image:
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: 
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -34,12 +34,12 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  - icon:	
+    url:	
+    desc: 
+    share_url: 
+    share_title:
+    share_link: 
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -48,9 +48,9 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+  - icon:	
+    url:	
+    desc:	
     share_url:
     share_title:
     share_link:
